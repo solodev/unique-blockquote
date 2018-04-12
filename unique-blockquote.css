@@ -1,0 +1,12 @@
+blockquote {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.5rem;
+  margin: 90px 0;
+  padding: 0 1rem;
+}
+blockquote:before {
+  content: url("https://raw.githubusercontent.com/solodev/unique-blockquote/master/left-quote.png");
+padding-bottom: 5px;
+display: block;
+}
